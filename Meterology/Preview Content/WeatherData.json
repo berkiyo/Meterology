@@ -1,0 +1,2 @@
+{"coord":{"lon":-74.006,"lat":40.7143},"weather":[{"id":711,"main":"Smoke","description":"smoke","icon":"50n"}],"base":"stations","main":{"temp":-4.8,"feels_like":-7.73,"temp_min":-8.09,"temp_max":-2.74,"pressure":1015,"humidity":61},"visibility":10000,"wind":{"speed":1.79,"deg":270,"gust":4.47},"clouds":{"all":0},"dt":1642220489,"sys":{"type":2,"id":2039034,"country":"US","sunrise":1642162693,"sunset":1642197092},"timezone":-18000,"id":5128581,"name":"New York","cod":200}
+
